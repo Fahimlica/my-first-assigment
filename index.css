@@ -1,0 +1,98 @@
+.top-banner {
+    background-image: url(images/donation13.jpg);
+    font-size: 50px;
+    color: bisque;
+    padding-left: 10%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: gold;
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+
+.middle-banner {
+    background-image: url(images/Frame\ 58.jpg);
+    font-size: 50px;
+    color: black;
+    padding-left: 10%;
+}
+
+.link-button2 {
+    text-decoration: none;
+    background-color: gold;
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+
+.food-for {
+    display: flex;
+    margin-bottom: 80px;
+    background-repeat: no-repeat;
+    padding-left: 15%;
+    box-shadow: 10px 10px 50px gray;
+}
+
+.shelter-for {
+    display: flex;
+    margin-bottom: 80px;
+    background-repeat: no-repeat;
+    padding-left: 15%;
+    box-shadow: 10px 10px 50px gray;
+}
+
+.education-for {
+    margin-bottom: 80px;
+    background-repeat: no-repeat;
+    display: flex;
+    padding-left: 15%;
+    box-shadow: 10px 10px 50px gray;
+}
+
+.plans {
+    font-size: 50px;
+    padding-left: 30%;
+}
+
+.how-to-contribute {
+    padding-left: 30%;
+    font-size: 20px;
+    width: 50%;
+
+}
+
+.how-to-contribute2 {
+    padding-left: 10%;
+    font-size: 20px;
+
+}
+
+.updats {
+    padding-left: 50%;
+    width: 30%;
+}
+
+.link-form {
+    text-decoration: none;
+    background-color: gold;
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+
+.mama {
+    background-image: url(images/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
+
+.kaka {
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
